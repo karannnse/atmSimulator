@@ -1,8 +1,8 @@
-Banking System - Java Swing Project
-Description
+##Banking System - Java Swing Project
+##Description
 The Banking System is a Java Swing application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
 
-Features
+##Features
 Account creation and management
 Deposit and withdrawal transactions
 Balance inquiry
@@ -12,8 +12,8 @@ Technologies Used
 Java
 Java Swing for GUI
 Installation
-Clone the repository:
-git clone https://github.com/your-username/banking-system.git
+
+
 cd banking-system
 Run Project
 javac Main.java
