@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Karan katariya\\Desktop\\jcalendar-tz-1.3.3-4.jar",
+            "c:\\Users\\Karan katariya\\Downloads\\mysql-connector-java-8.0.28.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Karan katariya\\Desktop\\mysql-connector-java-8.0.28.jar"
+        ]
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
