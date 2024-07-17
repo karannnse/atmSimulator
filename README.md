@@ -1,18 +1,38 @@
-## Getting Started
+Banking System - Java Swing Project
+Description
+The Banking System is a Java Swing application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Features
+Account creation and management
+Deposit and withdrawal transactions
+Balance inquiry
+Transaction history
+User-friendly GUI with Java Swing
+Technologies Used
+Java
+Java Swing for GUI
+Installation
+Clone the repository:
+git clone https://github.com/your-username/banking-system.git
+cd banking-system
+Run Project
+javac Main.java
+java Main
+Usage
+Launch the application.
+Follow the on-screen instructions to perform banking operations.
+Contribution
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-## Folder Structure
+Fork the repository
+Create a new branch (git checkout -b feature/new-feature)
+Commit your changes (git commit -m 'Add new feature')
+Push to the branch (git push origin feature/new-feature)
+Create a pull request
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Acknowledgments
+Thanks to Java for the programming language.
+Special thanks to Java Swing for the GUI components.
+Feel free to customize the content according to your project's specific details. Add more sections or information as needed.
